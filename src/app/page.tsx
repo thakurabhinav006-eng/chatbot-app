@@ -351,7 +351,7 @@ export default function ChatPage() {
             </button>
           </div>
           <p className="text-center text-[10px] mt-2" style={{ color: "#4a4a6a", fontFamily: "'JetBrains Mono', monospace" }}>
-            ChatBot AI · Built on ahmadfaizalbh/Chatbot · Deployed on Vercel
+            ChatBot AI · Developed by Abhinav · Deployed on Vercel
           </p>
         </div>
       </main>
