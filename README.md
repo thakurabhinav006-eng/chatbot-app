@@ -1,6 +1,6 @@
 # ChatBot AI — Next.js + Vercel
 
-A beautiful, production-ready chatbot web app inspired by [ahmadfaizalbh/Chatbot](https://github.com/ahmadfaizalbh/Chatbot), built with **Next.js 14** and deployed on **Vercel**.
+A beautiful, production-ready chatbot web app , built with **Next.js 14** and deployed on **Vercel**.
 
 ## Features
 
