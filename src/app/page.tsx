@@ -173,7 +173,7 @@ export default function ChatPage() {
               ChatBot AI
             </h1>
             <p className="text-xs mt-0.5" style={{ color: "#8888aa" }}>
-              Powered by ahmadfaizalbh/Chatbot
+              Powered by Abhinav
             </p>
           </div>
         </div>
